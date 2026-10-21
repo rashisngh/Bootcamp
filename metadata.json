@@ -1,0 +1,6 @@
+{
+  "name": "JSSATE Placement Intelligence Hub",
+  "description": "JSS Academy of Technical Education Companies Research & Placement Analytics Portal - Strategic placement intelligence and skill requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
